@@ -30,7 +30,7 @@ This toolkit offers advice on developing scripts based on Mimesis activities for
 
 Learn more about the Mimesis project, with examples and additional knowledge, through our [Tutorial Playlist available here](https://youtube.com/playlist?list=PLkWoF9vy6_sxcXuJax9FDqWfQyYjTSLno&si=j_Uy0QcLAwdny7TY).
 
-![]()
-
 <hr>
+
 *The content available on GitHub has been created by the Mimesis partners: Laboratoire d’Aix-périmentation et de Bidouille (France), La Fabulerie (France), and Spaces Foundation for Arts & Culture (Bulgaria). The Mimesis project has been funded with the support of the European Commission through the Erasmus + Strategic Partnership Programme. Its content reflects the views only of the author, and the Commission cannot be held responsible for any use that may be made of the information contained therein. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License, allowing unrestricted use, distribution, and reproduction in any medium, provided that appropriate credit is given to the original author(s) and the source, a link to the Creative Commons license is provided, and any changes made are indicated and shared alike. The cover and illustrations were proposed by the Project Coordinator and supported by the Partners. Icons and illustrations were designed by contributors from Freepik.*
+![Mimesis Co-funding & Partners](https://github.com/Mimesis-In-School/mimesis_in_english/blob/main/Mimesis_Co_funding_and_partners.png)
