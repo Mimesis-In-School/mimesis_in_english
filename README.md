@@ -1,4 +1,5 @@
 # Welcome to Mimesis, where STEM (Science, Technology, Engineering, and Mathematics) learning is combined with theatre and performing arts techniques to make learning fun and creative, following the STEAM pedagogy.
+![Learning Sciences with Arts](https://github.com/Mimesis-In-School/mimesis_in_english/blob/main/Learning_Sciences_with_Arts.png)
 
 Mimesis is an Erasmus+ project that aims to develop students' scientific intuition while also enhancing their knowledge and communication skills. The project focuses on creating approaches and educational activities that incorporate theatrical and body movement techniques in STEAM learning (Science, Technology, Engineering, Arts, and Mathematics), creating a fun and inclusive learning environment. With the guidance of theatre professionals, these activities aim to facilitate multidisciplinary learning alongside traditional teaching. Our educational proposals are designed for young people aged 8 to 12 years old and are designed to support teachers in conducting creative and inspiring activities in the classroom with minimal materials.
 
